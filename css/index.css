@@ -1009,7 +1009,7 @@ footer {
  	width: 98px;
  	height: 480px;
  	position: fixed;
- 	top: 300px;
+ 	top:100px;
  	z-index: 100;
  }
  .sun {
@@ -1027,4 +1027,15 @@ footer {
 .help {
 	background-color: #02b7c7;
 	height: 96px;
+}
+.gotop {
+	text-align: center;
+	overflow: hidden;
+}
+.gotopimg {
+	height: 25px;
+	width: 45px;
+	margin: 0 auto;
+	margin-top: 20px;
+	display: block;
 }
